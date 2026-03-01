@@ -3,9 +3,33 @@
      Backend Engineer ☕ | AI Enthusiast | KMUTT IT Year 4
 ════════════════════════════════════════════════════════════ -->
 <div align="center">
+     
+<svg viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg">
 
-<!-- CINEMATIC HEADER — Vortex style -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0A1A,30:1E0A3C,60:6D28D9,80:A855F7,100:22D3EE&height=260&section=header&text=Warisa%20Thiamthong&fontSize=52&fontAlignY=42&fontColor=ffffff&fontWeight=900&desc=Garfair%20|%20Backend%20Engineer%20%26%20AI%20Enthusiast&descAlignY=62&descSize=18&descColor=C4B5FD&animation=fadeIn)
+  <defs>
+    <linearGradient id="orbGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1400FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="400" cy="180" r="110" fill="url(#orbGradient)" />
+
+  <text x="50%" y="170"
+        text-anchor="middle"
+        font-size="60"
+        font-weight="700"
+        fill="none"
+        stroke="#7C3AED"
+        stroke-width="2"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    Warisa Thiamthong
+  </text>
+
+</svg>
+
+<p align="center">✦  ✧  ✦  ✧  ✦  ✧  ✦</p>
 
 <!-- GLITCH EFFECT BANNER -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=14&duration=2000&pause=800&color=FF69B4&background=0A0A1A00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=30&lines=%E2%96%88%E2%96%88%E2%96%88+SYSTEM+BOOTING...+%E2%96%88%E2%96%88%E2%96%88" alt="boot"/>
