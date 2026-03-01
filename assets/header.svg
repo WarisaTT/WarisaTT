@@ -8,12 +8,21 @@
     </linearGradient>
   </defs>
 
-  <circle cx="400" cy="180" r="110" fill="url(#orbGradient)" />
+  <!-- Animated Orb -->
+  <circle cx="400" cy="180" r="110" fill="url(#orbGradient)">
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0; 0 -10; 0 0"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </circle>
 
+  <!-- Text -->
   <text x="50%" y="170"
         text-anchor="middle"
         font-size="60"
-        font-weight="700"
+        font-weight="600"
         fill="none"
         stroke="#7C3AED"
         stroke-width="2"
