@@ -29,8 +29,8 @@
 <br/><br/>
 
 <!-- SOCIAL BADGES ROW 2 -->
-<img src="https://img.shields.io/github/followers/Garfair?label=GitHub+Followers&style=flat-square&color=A855F7&labelColor=1A1A2E&logo=github&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=Garfair&style=flat-square&color=6D28D9&labelColor=1A1A2E&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/WarisaTT?label=GitHub+Followers&style=flat-square&color=A855F7&labelColor=1A1A2E&logo=github&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=WarisaTT&style=flat-square&color=6D28D9&labelColor=1A1A2E&label=Profile+Views"/>
 <img src="https://img.shields.io/badge/Status-Open_to_Work_🟢-22C55E?style=flat-square&labelColor=1A1A2E"/>
 <img src="https://img.shields.io/badge/Based_in-Bangkok_🇹🇭-F59E0B?style=flat-square&labelColor=1A1A2E"/>
 
@@ -270,7 +270,7 @@ User Flow:
 <br/>
 
 <!-- Trophy showcase -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Garfair&theme=discord&no-frame=false&column=7&margin-w=6&margin-h=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=WarisaTT&theme=discord&no-frame=false&column=7&margin-w=6&margin-h=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews"/>
 
 </div>
 </details>
