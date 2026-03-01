@@ -23,8 +23,8 @@
         text-anchor="middle"
         font-size="60"
         font-weight="600"
-        fill="none"
-        stroke="#7C3AED"
+        fill="#00000"
+        stroke="#00000"
         stroke-width="2"
         font-family="Segoe UI, Helvetica, Arial, sans-serif">
     Warisa Thiamthong
