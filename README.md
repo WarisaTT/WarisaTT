@@ -209,7 +209,7 @@ Figma / UX      █████████████░░░░░░░░ 
 ```
 
 [![View Project](https://img.shields.io/badge/🌐_Live_Demo-ploykong.com-7C3AED?style=for-the-badge&labelColor=1A1A2E)](https://ploykong.com/p/warisa-resume)
-[![GitHub Repo](https://img.shields.io/badge/📦_Source_Code-GitHub-24292F?style=for-the-badge&logo=github&labelColor=1A1A2E)](https://github.com/Garfair/ploykong)
+[![GitHub Repo](https://img.shields.io/badge/📦_Source_Code-GitHub-24292F?style=for-the-badge&logo=github&labelColor=1A1A2E)](https://github.com/WarisaTT/ploykong)
 
 </div>
 
@@ -254,18 +254,18 @@ User Flow:
 <br/>
 
 <!-- Stats + Langs side by side -->
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=Garfair&show_icons=true&theme=transparent&bg_color=0D0F1A&text_color=C4B5FD&icon_color=A78BFA&title_color=22D3EE&border_color=4C1D95&border_radius=16&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garfair&layout=donut&theme=transparent&bg_color=0D0F1A&text_color=C4B5FD&title_color=22D3EE&border_color=4C1D95&border_radius=16&langs_count=8&hide=html,css" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=WarisaTT&show_icons=true&theme=transparent&bg_color=0D0F1A&text_color=C4B5FD&icon_color=A78BFA&title_color=22D3EE&border_color=4C1D95&border_radius=16&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarisaTT&layout=donut&theme=transparent&bg_color=0D0F1A&text_color=C4B5FD&title_color=22D3EE&border_color=4C1D95&border_radius=16&langs_count=8&hide=html,css" />
 
 <br/>
 
 <!-- Streak -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Garfair&theme=transparent&background=0D0F1A&ring=A855F7&fire=E879F9&currStreakLabel=22D3EE&sideLabels=C4B5FD&border=4C1D95&border_radius=16&dates=A78BFA" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=WarisaTT&theme=transparent&background=0D0F1A&ring=A855F7&fire=E879F9&currStreakLabel=22D3EE&sideLabels=C4B5FD&border=4C1D95&border_radius=16&dates=A78BFA" />
 
 <br/>
 
 <!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Garfair&bg_color=0D0F1A&color=C4B5FD&line=7C3AED&point=22D3EE&area=true&area_color=4C1D95&border_color=4C1D95&radius=16&hide_border=false&custom_title=Garfair's%20Contribution%20Graph%20☕"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=WarisaTT&bg_color=0D0F1A&color=C4B5FD&line=7C3AED&point=22D3EE&area=true&area_color=4C1D95&border_color=4C1D95&radius=16&hide_border=false&custom_title=Garfair's%20Contribution%20Graph%20☕"/>
 
 <br/>
 
@@ -396,9 +396,9 @@ Q1 2026  ━━━━━━━━━━━━━━━━━━━━━━━�
 <h2>🐍 Watch My Contributions Get Eaten</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Garfair/Garfair/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Garfair/Garfair/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Garfair/Garfair/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WarisaTT/WarisaTT/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WarisaTT/WarisaTT/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/WarisaTT/WarisaTT/output/github-snake-dark.svg" />
 </picture>
 
 > ⚠️ Snake animation ต้องตั้ง GitHub Actions ก่อน — ดูวิธีด้านล่าง
