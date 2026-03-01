@@ -1,194 +1,472 @@
+<!-- ═══════════════════════════════════════════════════════════
+     WARISA "GARFAIR" THIAMTHONG — GitHub Profile README
+     Backend Engineer ☕ | AI Enthusiast | KMUTT IT Year 4
+════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:7C3AED,70:A855F7,100:22D3EE&height=220&section=header&text=Hi%20I'm%20Garfair%20☕&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Warisa%20Thiamthong%20%7C%20Backend%20Engineer%20%26%20AI%20Enthusiast&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<!-- CINEMATIC HEADER — Vortex style -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A1A,30:1E0A3C,60:6D28D9,80:A855F7,100:22D3EE&height=280&section=header&text=Warisa%20Thiamthong&fontSize=52&fontAlignY=40&fontColor=ffffff&fontWeight=900&desc=☕%20Garfair%20%7C%20Backend%20Engineer%20%26%20AI%20Enthusiast&descAlignY=60&descSize=18&descColor=C4B5FD&stroke=6D28D9&strokeWidth=2&animation=scaleIn" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Golang+%7C+C%23+%7C+Java+Spring+Boot;Full+Stack+Developer+with+Flutter+%F0%9F%93%B1;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;KMUTT+IT+Year+4+%F0%9F%8E%93;Building+PloyKong+%E2%9C%A8+No-Code+Portfolio+Builder" alt="Typing SVG" />
+<!-- GLITCH EFFECT BANNER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=14&duration=2000&pause=800&color=22D3EE&background=0A0A1A00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=30&lines=%E2%96%88%E2%96%88%E2%96%88+SYSTEM+BOOTING...+%E2%96%88%E2%96%88%E2%96%88" alt="boot"/>
+
+<!-- MAIN TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&height=60&lines=%F0%9F%A6%BE+Backend+Engineer+%7C+Go+%7C+C%23+%7C+Java+Spring+Boot;%F0%9F%A4%96+AI+%26+Automation+Enthusiast;%F0%9F%8F%AD+Built+Real+Systems+for+Sugar+Factory;%F0%9F%9A%80+Co-building+PloyKong+%E2%9C%A8;%F0%9F%8E%93+KMUTT+IT+%7C+Year+4+%7C+Bangkok+%F0%9F%87%B9%F0%9F%87%AD;%E2%98%95+Curious+by+nature%2C+Driven+by+coffee" alt="Typing SVG"/>
+
+<br/>
+
+<!-- SOCIAL BADGES ROW 1 -->
+<a href="https://linkedin.com/in/warisa-thiamthong">
+  <img src="https://img.shields.io/badge/LinkedIn-Warisa_Thiamthong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0F1A"/>
+</a>
+<a href="mailto:fair2708@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-fair2708@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0F1A"/>
+</a>
+<a href="https://ploykong.com/p/warisa-resume">
+  <img src="https://img.shields.io/badge/Portfolio-PloyKong-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0F1A"/>
 </a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/Warisa_Thiamthong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/warisa-thiamthong)
-[![GitHub followers](https://img.shields.io/github/followers/Garfair?label=Followers&style=for-the-badge&color=7C3AED&labelColor=0D0F1A&logo=github)](https://github.com/Garfair)
-[![Profile views](https://komarev.com/ghpvc/?username=Garfair&style=for-the-badge&color=A855F7&labelColor=0D0F1A&label=Profile+Views)](https://github.com/Garfair)
+<!-- SOCIAL BADGES ROW 2 -->
+<img src="https://img.shields.io/github/followers/Garfair?label=GitHub+Followers&style=flat-square&color=A855F7&labelColor=1A1A2E&logo=github&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=Garfair&style=flat-square&color=6D28D9&labelColor=1A1A2E&label=Profile+Views"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work_🟢-22C55E?style=flat-square&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/Based_in-Bangkok_🇹🇭-F59E0B?style=flat-square&labelColor=1A1A2E"/>
 
 </div>
 
 ---
 
-## ☕ About Me — กาแฟ (Garfair)
+<!-- ═══ ABOUT ME ══════════════════════════════════════════════ -->
 
-```yaml
-name:        "Warisa Thiamthong (วริษา เทียมทอง)"
-nickname:    "Garfair ☕ (กาแฟ)"
-university:  "King Mongkut's University of Technology Thonburi (KMUTT)"
-faculty:     "Information Technology"
-year:        4
-location:    "Bangkok, Thailand 🇹🇭"
-focus:       ["Backend Engineering", "AI Integration", "Automation"]
-currently:   "Part-time Software Engineer @ Automate-2015 🤖"
-building:    "PloyKong — No-Code Portfolio Builder for Gen-Z ✨"
-philosophy:  "Technology isn't intimidating when approached with curiosity 🔍"
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
-I'm naturally **curious by nature** — when something interests me, I dive deep until I truly understand it. My AI journey started from comparing how **Claude, ChatGPT, Perplexity, and Gemini** each think and respond differently, which led me to explore how AI can power smarter backend systems.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-- 🤖 Currently working on **Robotics & Automation** systems with Machine Vision
-- 🏭 Built enterprise backend systems for a **real sugar factory** (C# + Flutter)
-- 🚀 Co-building **PloyKong** — a No-Code AI-powered portfolio builder
-- 🧠 Exploring **AI integration in backend** to build intelligent applications
-- 🔍 Always asking *"how does this actually work?"* before using anything
+### ☕ `whoami` — กาแฟ (Garfair)
 
----
+```typescript
+const garfair: Developer = {
+  name:       "Warisa Thiamthong",
+  nickname:   "Garfair ☕ (กาแฟ)",
+  university: "KMUTT — IT Faculty",
+  year:       4,
+  location:   "Bangkok 🇹🇭",
 
-## 🛠️ Tech Stack
+  currently: [
+    "Part-time @ Automate-2015 🤖",
+    "Building PloyKong ✨",
+    "Exploring LLM + Backend 🧠",
+  ],
 
-<div align="center">
-
-### ⚙️ Backend — My Core Strength
-![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 📱 Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 🗄️ Database & Tools
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-
-### 🤖 Automation & AI
-![Machine Vision](https://img.shields.io/badge/Machine_Vision-00ADD8?style=for-the-badge&logo=opencv&logoColor=white)
-![Robotics](https://img.shields.io/badge/Robotics_%26_Automation-FF6C37?style=for-the-badge&logo=ros&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
----
-
-## 💼 Work Experience
-
-### 🤖 Software Engineer (Part-time) · Automate-2015
-**ต.ค. 2025 – ปัจจุบัน · Bangkok (On-site)**
-
-> Automation Startup — Robotics & Industrial Machine Vision
-
-- Developed software modules in **C# and VB** for machine control systems
-- Implemented **Industrial Camera** workflows: Init → Config → Grab → Capture → Shutdown
-- Designed robot control interfaces using **Visual Studio**
-- Participated in **robot training & calibration** processes
-- Gained experience in **Technical Sales** — demonstrating products to factory clients
-
-`Machine Vision` `Robotics` `C#` `VB` `Automation` `Technical Sales`
-
----
-
-### 🏭 Software Developer Intern · Lin Sugar Sweet Creation
-**ม.ค. 2025 – ก.ค. 2025 · 7 months (On-site)**
-
-> Enterprise System for Sugar Factory — Full Cycle Development
-
-- Gathered & analyzed **system requirements** from internal factory stakeholders
-- Led **system design & feature planning** with wireframing in Obsidian
-- Built **Backend systems in C#** for enterprise-level workflow management
-- Contributed to **Flutter mobile application** development
-- Experienced **full SDLC** from requirements → design → implementation → deployment
-
-`C#` `Flutter` `SQL Server` `Scrum` `System Design` `Obsidian` `Team Leadership`
-
----
-
-## 🌟 Featured Project
-
-<div align="center">
-
-### ✨ PloyKong — No-Code Portfolio Builder for Gen-Z
-
-[![PloyKong](https://img.shields.io/badge/🚀_PloyKong-View_Project-7C3AED?style=for-the-badge&labelColor=0D0F1A)](https://github.com/Garfair/ploykong)
-
-> **"มีดีต้องปล่อยของ"** — สร้าง Portfolio ระดับมืออาชีพในไม่กี่คลิก
-
-</div>
-
-| Module | My Role | Tech |
-|---|---|---|
-| 🔒 Backend API & Auth | Core Developer | Go + Fiber + JWT |
-| 📱 Admin Dashboard | Flutter Dev | Flutter + Dart |
-| 🤖 AI Integration | AI Engineer | OpenAI API + RAG |
-| 🗄️ Dynamic Block Storage | DB Designer | MySQL + JSON Types |
-| 🎨 UX/UI Design | Designer | Figma |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Garfair&show_icons=true&theme=transparent&bg_color=0D0F1A&text_color=E2E8F0&icon_color=A78BFA&title_color=A78BFA&border_color=3B0764&border_radius=12&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garfair&layout=compact&theme=transparent&bg_color=0D0F1A&text_color=E2E8F0&title_color=A78BFA&border_color=3B0764&border_radius=12&langs_count=8" />
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Garfair&theme=transparent&background=0D0F1A&ring=A855F7&fire=E879F9&currStreakLabel=A78BFA&sideLabels=94A3B8&border=3B0764&border_radius=12" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Garfair&bg_color=0D0F1A&color=A78BFA&line=7C3AED&point=22D3EE&area=true&area_color=7C3AED&border_color=3B0764&radius=12" />
-
-</div>
-
----
-
-## 🎯 2025 Goals
-
-- [x] 🤖 Work in real Robotics & Automation environment
-- [x] 🏭 Build enterprise-level system from scratch (Sugar Factory)
-- [x] ⚡ Learn Golang for high-performance backend
-- [x] 🚀 Start building PloyKong with team
-- [ ] 🧠 Implement AI-powered features in PloyKong (RAG + OpenAI)
-- [ ] ☁️ Deploy production app on cloud (Docker + VPS)
-- [ ] 🌍 Graduate & land Full-time Backend/AI Engineer role 🎓
-- [ ] 📖 Deep dive into LLM architecture & prompt engineering
-
----
-
-## 🧠 What I'm Exploring
-
-```go
-// Current research interests — Garfair's curiosity log ☕
-type Learning struct {
-    AIComparison    []string // Claude vs GPT vs Gemini vs Perplexity
-    BackendAI       string   // "Integrating LLMs into backend APIs"
-    MachineLearning string   // "From Automation → to Intelligent Systems"
-    CurrentReading  string   // "How AI actually thinks & responds"
-}
-
-var garfair = Learning{
-    AIComparison:    []string{"Claude ✦", "ChatGPT", "Gemini", "Perplexity"},
-    BackendAI:       "Building APIs that think 🤖",
-    MachineLearning: "From factory cameras → smarter systems",
-    CurrentReading:  "LLM internals & RAG architecture",
+  superpower: "Curiosity-driven deep dives 🔍",
+  funFact:    "Compared Claude vs GPT vs Gemini vs" +
+              " Perplexity — then built AI backends 🤖",
+  coffee:     "Required for system startup ☕",
 }
 ```
 
+</td>
+<td width="45%" valign="top">
+
+### 🧭 Currently...
+
+```
+🔴  Working   → Automate-2015 (Robotics)
+🟡  Building  → PloyKong (AI Portfolio)
+🟢  Learning  → LLM Architecture & RAG
+🔵  Exploring → Go + AI Integration
+⚪  Reading   → "How AI actually thinks"
+```
+
+### 📡 Activity
+
+![Coding time](https://img.shields.io/badge/Coding-Backend_Heavy-00ADD8?style=flat-square&logo=go&labelColor=1A1A2E)
+![Coffee](https://img.shields.io/badge/Coffee_Consumed-∞_cups-C4632A?style=flat-square&logo=buymeacoffee&labelColor=1A1A2E)
+![Sleep](https://img.shields.io/badge/Sleep_Schedule-Undefined-6D28D9?style=flat-square&logo=moon&labelColor=1A1A2E)
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 📫 Let's Connect!
+<!-- ═══ TECH STACK ════════════════════════════════════════════ -->
+
+<details open>
+<summary><h2>🛠️ Tech Stack — Click to Expand</h2></summary>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Warisa_Thiamthong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/warisa-thiamthong)
-[![Portfolio](https://img.shields.io/badge/PloyKong_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://ploykong.com/p/warisa-resume)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fair2708@gmail.com)
 
 <br/>
 
-*"" Work hard on code Work smarter with Al."* ☕
+<!-- ANIMATED SKILL BARS via badges -->
+| Category | Technologies |
+|:---:|:---|
+| **⚙️ Backend** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **📱 Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **🎨 Frontend** | ![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **🗄️ Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **🤖 AI & Automation** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Machine Vision](https://img.shields.io/badge/Machine_Vision-5C3317?style=flat-square&logo=opencv&logoColor=white) ![Robotics](https://img.shields.io/badge/Robotics-FF6C37?style=flat-square) |
+| **🔧 DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **📝 Tools** | ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A855F7,100:0F172A&height=120&section=footer&animation=fadeIn" width="100%"/>
+<br/>
+
+<!-- PROFICIENCY visual -->
+**⚡ Backend Proficiency**
+
+```
+Go / Fiber      ████████████████████░   90% ⭐ Primary
+C#              ███████████████████░░   85% ✅ Work Experience  
+Java Spring     ████████████████░░░░░   75% 📚 Growing
+Flutter/Dart    ████████████████░░░░░   75% 📱 Full-Stack
+SQL / DB        ███████████████░░░░░░   70% 🗄️ Solid
+Figma / UX      █████████████░░░░░░░░   65% 🎨 Bonus Skill
+```
 
 </div>
+</details>
+
+---
+
+<!-- ═══ WORK EXPERIENCE ═══════════════════════════════════════ -->
+
+<details open>
+<summary><h2>💼 Work Experience — Real World, Real Code</h2></summary>
+
+<br/>
+
+<table>
+<tr>
+<td>
+
+### 🤖 Software Engineer (Part-time)
+**Automate-2015** · Oct 2025 – Present · Bangkok
+
+> *Robotics & Industrial Automation Startup*
+
+```diff
++ Robotics & Automation system development
++ Industrial Camera workflows (Machine Vision)
++ C# & VB modules for machine control
++ Robot training & calibration processes
++ Technical Sales — demo to factory clients
+```
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Machine Vision](https://img.shields.io/badge/Machine_Vision-00ADD8?style=flat-square)
+![Robotics](https://img.shields.io/badge/Robotics-FF6C37?style=flat-square)
+![VB](https://img.shields.io/badge/VB-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+</td>
+<td>
+
+### 🏭 Software Developer Intern
+**Lin Sugar Sweet Creation** · Jan–Jul 2025 · 7 months
+
+> *Enterprise System for Sugar Factory — Full SDLC*
+
+```diff
++ Requirements gathering from factory stakeholders
++ System design & wireframing (Obsidian)
++ Backend development in C#
++ Flutter mobile app contribution
++ Full SDLC: Req → Design → Build → Deploy
+```
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+</details>
+
+---
+
+<!-- ═══ FEATURED PROJECT ══════════════════════════════════════ -->
+
+<details open>
+<summary><h2>🚀 Featured Project — PloyKong</h2></summary>
+
+<div align="center">
+<br/>
+
+```
+██████╗ ██╗      ██████╗ ██╗   ██╗██╗  ██╗ ██████╗ ███╗   ██╗ ██████╗
+██╔══██╗██║     ██╔═══██╗╚██╗ ██╔╝██║ ██╔╝██╔═══██╗████╗  ██║██╔════╝
+██████╔╝██║     ██║   ██║ ╚████╔╝ █████╔╝ ██║   ██║██╔██╗ ██║██║  ███╗
+██╔═══╝ ██║     ██║   ██║  ╚██╔╝  ██╔═██╗ ██║   ██║██║╚██╗██║██║   ██║
+██║     ███████╗╚██████╔╝   ██║   ██║  ██╗╚██████╔╝██║ ╚████║╚██████╔╝
+╚═╝     ╚══════╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝
+```
+
+[![View Project](https://img.shields.io/badge/🌐_Live_Demo-ploykong.com-7C3AED?style=for-the-badge&labelColor=1A1A2E)](https://ploykong.com/p/warisa-resume)
+[![GitHub Repo](https://img.shields.io/badge/📦_Source_Code-GitHub-24292F?style=for-the-badge&logo=github&labelColor=1A1A2E)](https://github.com/Garfair/ploykong)
+
+</div>
+
+> **"มีดีต้องปล่อยของ"** — No-Code AI-Powered Portfolio Builder for Gen-Z Professionals
+
+```
+User Flow:
+ Select Template ──▶ Drag & Drop Blocks ──▶ AI Improve Content
+       │                     │                      │
+       ▼                     ▼                      ▼
+ 48+ Templates         WYSIWYG Editor          Resume Score
+       │                     │                      │
+       └──────────────────┬──┘                      │
+                          ▼                         ▼
+                   One-Click Publish ◀────── AI Interview Coach
+                          │
+                          ▼
+              📊 Real-time Analytics (Flutter)
+              🔔 HR Notification Push Alert
+              🌍 Visitor Geolocation Map
+```
+
+| 🧩 Module | 👩‍💻 Garfair's Role | ⚙️ Tech |
+|---|---|---|
+| Backend API & Auth | **Core Developer** | Go + Fiber + JWT |
+| Admin Dashboard | **Flutter Dev** | Flutter + Dart + Charts |
+| AI Resume Writer | **AI Engineer** | OpenAI API + RAG |
+| Dynamic Block Storage | **DB Architect** | MySQL + JSON Types |
+| UX/UI Design | **Designer** | Figma + Tailwind |
+| DevOps & Deploy | **DevOps** | Docker + VPS + DNS |
+
+</details>
+
+---
+
+<!-- ═══ GITHUB STATS ═══════════════════════════════════════════ -->
+
+<details open>
+<summary><h2>📊 GitHub Stats & Activity</h2></summary>
+
+<div align="center">
+<br/>
+
+<!-- Stats + Langs side by side -->
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Garfair&show_icons=true&theme=transparent&bg_color=0D0F1A&text_color=C4B5FD&icon_color=A78BFA&title_color=22D3EE&border_color=4C1D95&border_radius=16&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garfair&layout=donut&theme=transparent&bg_color=0D0F1A&text_color=C4B5FD&title_color=22D3EE&border_color=4C1D95&border_radius=16&langs_count=8&hide=html,css" />
+
+<br/>
+
+<!-- Streak -->
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Garfair&theme=transparent&background=0D0F1A&ring=A855F7&fire=E879F9&currStreakLabel=22D3EE&sideLabels=C4B5FD&border=4C1D95&border_radius=16&dates=A78BFA" />
+
+<br/>
+
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Garfair&bg_color=0D0F1A&color=C4B5FD&line=7C3AED&point=22D3EE&area=true&area_color=4C1D95&border_color=4C1D95&radius=16&hide_border=false&custom_title=Garfair's%20Contribution%20Graph%20☕"/>
+
+<br/>
+
+<!-- Trophy showcase -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Garfair&theme=discord&no-frame=false&column=7&margin-w=6&margin-h=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews"/>
+
+</div>
+</details>
+
+---
+
+<!-- ═══ AI COMPARISON LAB ═════════════════════════════════════ -->
+
+<details>
+<summary><h2>🧠 Garfair's AI Lab — The Curiosity Corner</h2></summary>
+
+<br/>
+
+> *"My AI journey started from a simple question: why does each AI respond differently?"*
+
+```go
+// garfair_ai_research.go
+package curiosity
+
+type AIModel struct {
+    Name      string
+    Strength  string
+    Weakness  string
+    Verdict   string
+}
+
+var AIComparison = []AIModel{
+    {
+        Name:     "Claude (Anthropic) ✦",
+        Strength: "Deep reasoning, nuanced answers, safety-focused",
+        Weakness: "Sometimes too careful 😅",
+        Verdict:  "🥇 Best for complex backend architecture discussion",
+    },
+    {
+        Name:     "ChatGPT (OpenAI)",
+        Strength: "Versatile, huge ecosystem, great plugins",
+        Weakness: "Can hallucinate confidently",
+        Verdict:  "🥈 Best for quick coding help",
+    },
+    {
+        Name:     "Gemini (Google)",
+        Strength: "Multimodal, real-time Google Search",
+        Weakness: "Inconsistent personality",
+        Verdict:  "🥉 Best for research + latest info",
+    },
+    {
+        Name:     "Perplexity AI",
+        Strength: "Source-cited answers, fact-checking",
+        Weakness: "Less creative",
+        Verdict:  "🔍 Best for technical documentation lookup",
+    },
+}
+
+// Conclusion: Integrate ALL of them strategically in backend APIs
+func (g *Garfair) BuildSmartSystem() string {
+    return "Use each AI's strength for the right task 🚀"
+}
+```
+
+**🔬 Current Research:**
+
+```
+[████████░░] RAG Architecture & Vector Databases
+[███████░░░] LLM Integration in Go Backend APIs  
+[██████░░░░] Machine Vision → AI-powered Inspection
+[█████░░░░░] Prompt Engineering for Production Systems
+[████░░░░░░] Fine-tuning vs RAG trade-offs
+```
+
+</details>
+
+---
+
+<!-- ═══ 2025 GOALS ═════════════════════════════════════════════ -->
+
+<details open>
+<summary><h2>🎯 2025 Roadmap</h2></summary>
+
+<br/>
+
+```
+Q1 2025  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ✅ DONE
+         ├── ✅ Started Software Developer Internship (Sugar Factory)
+         ├── ✅ Built Enterprise C# Backend from scratch
+         └── ✅ Shipped Flutter mobile app for real users
+
+Q2 2025  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ✅ DONE
+         ├── ✅ Completed full SDLC at Lin Sugar Sweet Creation
+         └── ✅ Started learning Go / Fiber for backend
+
+Q3 2025  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ✅ DONE
+         └── ✅ Kicked off PloyKong project with team
+
+Q4 2025  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  🔄 IN PROGRESS
+         ├── ✅ Joined Automate-2015 (Robotics part-time)
+         ├── 🔄 PloyKong AI features (RAG + Resume Score)
+         └── 🔄 Machine Vision + AI integration research
+
+Q1 2026  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  📋 PLANNED
+         ├── 📋 Deploy PloyKong to production (Docker + VPS)
+         ├── 📋 Graduate from KMUTT 🎓
+         └── 📋 Land Full-time Backend/AI Engineer role 🚀
+```
+
+</details>
+
+---
+
+<!-- ═══ RANDOM DEV QUOTE ═══════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming" width="80%"/>
+
+</div>
+
+---
+
+<!-- ═══ SNAKE GAME CONTRIBUTION ══════════════════════════════ -->
+
+<div align="center">
+
+<h2>🐍 Watch My Contributions Get Eaten</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Garfair/Garfair/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Garfair/Garfair/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Garfair/Garfair/output/github-snake-dark.svg" />
+</picture>
+
+> ⚠️ Snake animation ต้องตั้ง GitHub Actions ก่อน — ดูวิธีด้านล่าง
+
+</div>
+
+---
+
+<!-- ═══ CONNECT ════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h2>📫 Let's Build Something Together</h2>
+
+<a href="https://linkedin.com/in/warisa-thiamthong">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0F1A"/>
+</a>
+<a href="mailto:fair2708@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Say_Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0F1A"/>
+</a>
+<a href="https://ploykong.com/p/warisa-resume">
+  <img src="https://img.shields.io/badge/Portfolio-PloyKong-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0F1A"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=6D28D9&center=true&vCenter=true&width=500&lines=while+(curious)+%7B+keep_learning()%3B+%7D;coffee.power_level+%3D+%22MAXIMUM%22+%E2%98%95;backend.make_it_fast()%3B+ai.make_it_smart()%3B" alt="footer typing"/>
+
+<br/>
+
+*"Technology isn't intimidating when approached with curiosity instead of pressure."*
+<br/>
+**— Warisa "Garfair" Thiamthong ☕**
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0533,40:4C1D95,70:7C3AED,100:22D3EE&height=140&section=footer&animation=fadeIn&fontColor=ffffff&fontSize=16&text=☕%20Thanks%20for%20visiting!%20Drop%20a%20⭐%20if%20you%20like%20my%20work&fontAlignY=65" width="100%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════
+  🐍 SNAKE SETUP INSTRUCTIONS (ลบออกหลัง setup แล้ว)
+  
+  1. สร้างไฟล์ .github/workflows/snake.yml ใน repo นี้
+  2. วางโค้ดนี้:
+  
+  name: Generate Snake
+  on:
+    schedule: [{ cron: "0 0 * * *" }]
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: Garfair
+            outputs: |
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
+  3. ไปที่ Actions tab → Run workflow → รอ 1 นาที
+  4. Snake จะขึ้นอัตโนมัติ! 🎉
+════════════════════════════════════════════════════════════ -->
