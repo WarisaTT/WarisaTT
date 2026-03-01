@@ -429,7 +429,7 @@ Q1 2026  ━━━━━━━━━━━━━━━━━━━━━━━�
 
 <br/>
 
-*"Technology isn't intimidating when approached with curiosity instead of pressure."*
+*"Work hard on code. Work smarter with Al"*
 <br/>
 **— Warisa "Garfair" Thiamthong ☕**
 
@@ -437,36 +437,3 @@ Q1 2026  ━━━━━━━━━━━━━━━━━━━━━━━�
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0533,40:4C1D95,70:7C3AED,100:22D3EE&height=140&section=footer&animation=fadeIn&fontColor=ffffff&fontSize=16&text=☕%20Thanks%20for%20visiting!%20Drop%20a%20⭐%20if%20you%20like%20my%20work&fontAlignY=65" width="100%"/>
 
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════
-  🐍 SNAKE SETUP INSTRUCTIONS (ลบออกหลัง setup แล้ว)
-  
-  1. สร้างไฟล์ .github/workflows/snake.yml ใน repo นี้
-  2. วางโค้ดนี้:
-  
-  name: Generate Snake
-  on:
-    schedule: [{ cron: "0 0 * * *" }]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: Garfair
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
-  3. ไปที่ Actions tab → Run workflow → รอ 1 นาที
-  4. Snake จะขึ้นอัตโนมัติ! 🎉
-════════════════════════════════════════════════════════════ -->
