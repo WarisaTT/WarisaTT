@@ -1,0 +1,24 @@
+<svg viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="orbGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1400FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="400" cy="180" r="110" fill="url(#orbGradient)" />
+
+  <text x="50%" y="170"
+        text-anchor="middle"
+        font-size="60"
+        font-weight="700"
+        fill="none"
+        stroke="#7C3AED"
+        stroke-width="2"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    Warisa Thiamthong
+  </text>
+
+</svg>
