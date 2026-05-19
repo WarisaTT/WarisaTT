@@ -250,13 +250,13 @@ User Flow:
 <summary><h2>📊 GitHub Stats & Activity</h2></summary>
 
 <div align="center">
-<br/>
+<!-- <br/> -->
 
 <!-- Stats + Langs side by side -->
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=WarisaTT&show_icons=true&theme=transparent&bg_color=0D0F1A&text_color=C4B5FD&icon_color=A78BFA&title_color=22D3EE&border_color=4C1D95&border_radius=16&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarisaTT&layout=donut&theme=transparent&bg_color=0D0F1A&text_color=C4B5FD&title_color=22D3EE&border_color=4C1D95&border_radius=16&langs_count=8&hide=html,css" />
+<!-- <img height="190" src="https://github-readme-stats.vercel.app/api?username=WarisaTT&show_icons=true&theme=transparent&bg_color=0D0F1A&text_color=C4B5FD&icon_color=A78BFA&title_color=22D3EE&border_color=4C1D95&border_radius=16&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarisaTT&layout=donut&theme=transparent&bg_color=0D0F1A&text_color=C4B5FD&title_color=22D3EE&border_color=4C1D95&border_radius=16&langs_count=8&hide=html,css" /> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- Streak -->
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=WarisaTT&theme=transparent&background=0D0F1A&ring=A855F7&fire=E879F9&currStreakLabel=22D3EE&sideLabels=C4B5FD&border=4C1D95&border_radius=16&dates=A78BFA" />
