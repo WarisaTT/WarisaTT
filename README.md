@@ -21,7 +21,7 @@
 <a href="mailto:fair2708@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-fair2708@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0F1A"/>
 </a>
-<a href="https://ploykong.com/p/warisa-resume">
+<a href="https://ploy-kong.vercel.app//p/warisa-resume">
   <img src="https://img.shields.io/badge/Portfolio-PloyKong-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0F1A"/>
 </a>
 
@@ -207,7 +207,7 @@ Figma / UX      █████████████░░░░░░░░ 
 ╚═╝     ╚══════╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝
 ```
 
-[![View Project](https://img.shields.io/badge/🌐_Live_Demo-ploykong.com-7C3AED?style=for-the-badge&labelColor=1A1A2E)](https://ploykong.com/p/warisa-resume)
+[![View Project](https://img.shields.io/badge/🌐_Live_Demo-ploykong.com-7C3AED?style=for-the-badge&labelColor=1A1A2E)](https://ploy-kong.vercel.app//p/warisa-resume)
 [![GitHub Repo](https://img.shields.io/badge/📦_Source_Code-GitHub-24292F?style=for-the-badge&logo=github&labelColor=1A1A2E)](https://github.com/WarisaTT/ploykong)
 
 </div>
@@ -415,7 +415,7 @@ Q1 2026  ━━━━━━━━━━━━━━━━━━━━━━━�
 <a href="mailto:fair2708@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Say_Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0F1A"/>
 </a>
-<a href="https://ploykong.com/p/warisa-resume">
+<a href="https://ploy-kong.vercel.app//p/warisa-resume">
   <img src="https://img.shields.io/badge/Portfolio-PloyKong-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0F1A"/>
 </a>
 
